@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+My name is Kenneth Meng. I am a process engineer living in Reno, Nevada.
