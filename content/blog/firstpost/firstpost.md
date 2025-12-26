@@ -37,18 +37,18 @@ I integrated the lamp into Home Assistant using a smart plug, but there was a de
     <figcaption> The new dimmer with Wi-Fi.</figcaption>
 </figure> 
 
-It was very easy to replace the dimmer. On the power supply side I simply disconnected the barrel jack from the old dimmer and plugged in the new one. The old dimmer was directly connected to the lamp so I had to cut the wire on that side, strip the wires, and attach a barrel jack connector to connect to the new dimmer.  
+It was simple to replace the dimmer. On the power supply side I simply disconnected the barrel jack from the old dimmer and plugged in the new one. The old dimmer was directly connected to the lamp so I had to cut the wire on that side, strip the wires, and attach a barrel jack connector to connect to the new dimmer.  
 
 <figure>
     <img src="./connector.jpeg" alt="Barrel jack connector connected to barrel jack plug">  
     <figcaption> The connection on the lamp side.</figcaption>
 </figure> 
 
-I then plugged the power supply back in and searched for the device in the Magic Home app. I onboarded it using Bluetooth and entered my Wi-Fi credentials, then the device showed up in the devices page in Home Assistant. It has worked reliably since. It responds very quickly and I added the lamp to [adaptive lighting](https://github.com/basnijholt/adaptive-lighting) so that it adjusts brightness automatically. 
+I then plugged the power supply back in and searched for the device in the Magic Home app. I onboarded it using Bluetooth and entered my Wi-Fi credentials, then the device showed up in the devices page in Home Assistant. It has worked reliably since. It responds quickly and I added the lamp to [adaptive lighting](https://github.com/basnijholt/adaptive-lighting) so that it adjusts brightness automatically. 
 
 <figure>
     <img src="./adjust.gif" alt="Bread lamp changing brightness">  
-    <figcaption> The final product having its brightness adjusted.</figcaption>
+    <figcaption> Bread lamp changing brightness. </figcaption>
 </figure> 
 
 Thanks for reading! 
