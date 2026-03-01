@@ -14,7 +14,7 @@ A running list of my devices that are connected to Home Assistant. It would prob
   - 3 Matter-over-WiFi devices
   - 1 HomeKit device
   - 8 Other Wi-Fi devices
-- 3 Matter-over-Thread devices
+- 7 Matter-over-Thread devices
 
 ## Devices 
 ### ESPHome 
@@ -81,8 +81,11 @@ This [microcontroller](https://www.adafruit.com/product/5778) has built-in pins 
 This is an old [RGBW strip](https://www.adafruit.com/product/2828) and [ESP8266 microcontroller](https://www.adafruit.com/product/2821) I had lying around that I originally had manually programmed with Arduino but reflashed with WLED. Final location for this is TBD. 
 
 ### Matter-over-Thread
-#### Nanoleaf Essentials Matter A19 E26 Smart Bulb
+#### Nanoleaf Essentials Matter A19 E26 Smart Bulb 3x
 [These](https://us-shop.nanoleaf.me/products/matter-thread-a19-smart-bulbs-3pk) were on sale for a steep discount (~$13 for 3) at Home Depot. They appear to be discontinued now in favor of a Wi-Fi version, but I would prefer my light bulbs to be Thread. They are generally reliable over Thread but do seem to take a beat longer to respond than other lights sometimes. The color quality is decent but the warm whites can look a little bit off.  
+
+#### Philips Hue Essential A19 E26 Smart Bulb 4x
+I got a four-pack of [these](https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-a19-e26-smart-bulb-800-lm-88w/046677592530) since I was curious about Hue's more affordable option. I have them installed in the bathroom and they are responsive. They do not dim very low, however.  
 
 ### Matter-over-WiFi 
 #### GE Cync Reveal Undercabinet Bar Lights 2x
