@@ -4,7 +4,7 @@ description: A running list of my Home Assistant devices.
 date: 2025-12-26
 tags: Home Assistant
 ---
-First written: 12/26/2025
+
 Updated: 07/03/2026
 
 A running list of my devices that are connected to Home Assistant. It would probably make more sense to organize by category (lighting, climate, etc.) but my brain prefers to organize them by communication protocol so I will do that here. 
