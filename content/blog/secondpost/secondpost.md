@@ -10,12 +10,12 @@ Updated: 07/03/2026
 A running list of my devices that are connected to Home Assistant. It would probably make more sense to organize by category (lighting, climate, etc.) but my brain prefers to organize them by communication protocol so I will do that here. 
 
 ## Overview
-- 25 Wi-Fi devices
+- 26 Wi-Fi devices
   - 4 ESPHome devices
   - 2 WLED devices
   - 5 Matter-over-WiFi devices
   - 1 HomeKit device
-  - 13 Other Wi-Fi devices
+  - 14 Other Wi-Fi devices
 - 25 Matter-over-Thread devices
 
 ## Devices 
@@ -154,6 +154,9 @@ These have been killed by Wemo (very bad) but I used [Pywemogui](https://github.
 
 #### HASS.Agent on Windows 11 Laptop
 I have the [HASS.Agent](https://www.hass-agent.io/2.1/) client on my laptop to use its active status for automations (keeping the lights on and turning on the fan). The client also shows the active window, which may be useful for some automations. 
+
+#### LG C2 OLED 42"
+I got this secondhand and use the LG WebOS TV integration to see it in Home Assistant. I can see the status of the TV and turn it on using Wake-on-LAN but have not been able to turn it off through HA. 
 
 #### TP-Link Tapo C120 Camera 
 I use this to monitor my cat. The [Tapo Cameras Control](https://github.com/jurajnyiri/homeassistant-tapo-control) custom integration works well for controlling the camera. The camera is automatically set to privacy mode when I am home, but I also have tape on the camera just in case. 
