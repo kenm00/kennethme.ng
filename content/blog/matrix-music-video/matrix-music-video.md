@@ -65,6 +65,7 @@ The `matrix_play` and `matrix_stop` actions in the Restful Commands code above a
 <details>
   <summary>Home Assistant Automation</summary>
     <pre><code>
+    {% raw %}
     alias: 'Matrix: search + play video for current Sonos track'
     description: >-
     Checks the matrix add-on's cache first; only searches YouTube on a cache miss.
@@ -129,7 +130,7 @@ The `matrix_play` and `matrix_stop` actions in the Restful Commands code above a
             data:
             cache_key: '{{ cache_key }}'
             video_url: ''
-
+{% endraw %}
 </pre></code>
 </details>  
 
