@@ -135,7 +135,7 @@ The `matrix_play` and `matrix_stop` actions in the Restful Commands code above a
 </details>  
 
 <figure>
-    <img src="matrix.gif" alt="An LED matrix playing the Bad Apple video.">  
+    <img src="matrix.webp" alt="An LED matrix playing the Bad Apple video.">  
     <figcaption> The matrix playing a music video. </figcaption>
 </figure>
 
